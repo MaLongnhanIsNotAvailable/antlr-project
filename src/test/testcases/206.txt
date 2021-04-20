@@ -1,0 +1,7 @@
+Function foo(a[5], b) {Constant $menochu=
+            [[[1,2,3],[1,2]],[{
+            name: "a",
+            b: "c",
+            c: "d"
+        }]];
+        }

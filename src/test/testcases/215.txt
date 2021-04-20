@@ -1,0 +1,13 @@
+Function foo(a[5], b) {
+            Constant $a ={
+            name: {
+                a : 123,
+                b : [[1,2],[{
+                    abcdef : 789,
+                    okn : "string"
+                }]]
+            },
+            b: "c",
+            c: [1,2,3]
+        };
+        }

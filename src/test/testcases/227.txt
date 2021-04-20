@@ -1,0 +1,5 @@
+Let a = [[1,2],[2,3]], b = {
+            name: [1,2,3],
+            b: "STRING",
+            c: 123
+        }, d : Boolean = True, e = False;

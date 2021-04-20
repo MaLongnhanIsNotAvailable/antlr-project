@@ -1,0 +1,13 @@
+Function foo(a[5], b) {
+            For a Of {
+            name: "abc",
+            a : 123
+        }{
+            For a Of {
+            name: "abc",
+            a : 123
+            }{
+                a = 5;
+            }
+        } 
+        }

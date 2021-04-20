@@ -1,0 +1,13 @@
+Function foo(a[5], b) {
+            If(Call(foo,[1,2]))
+        {
+            a = {
+                name: [1,2,3],
+                a: 10
+            };
+        }
+        Else
+        {
+            a = 3;
+        }
+        }

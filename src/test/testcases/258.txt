@@ -1,0 +1,5 @@
+Function foo(a[5], b) {
+            If(a == 3 {
+            Return err;
+        }
+        }

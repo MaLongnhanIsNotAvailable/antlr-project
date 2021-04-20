@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            If(a == b) {
+            a = 3;
+            Return 5;
+            }
+            }

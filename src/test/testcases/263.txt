@@ -1,0 +1,8 @@
+Function foo(a[5], b) {
+            For i Of {
+            name: "abc",
+            a : 123
+        }{
+            a = 3;
+        }
+        } 

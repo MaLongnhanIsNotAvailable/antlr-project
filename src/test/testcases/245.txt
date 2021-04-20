@@ -1,0 +1,3 @@
+Function foo(a[5], b) {
+            a["name"] = (a+3) > aBC[1,2] + a[3%b] + ab["name"]["a"];
+            }

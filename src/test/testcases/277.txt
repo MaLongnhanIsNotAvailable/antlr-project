@@ -1,0 +1,8 @@
+Function foo(a[5], b) {
+            While(a == 5){
+                a = b;
+                ##
+                # 
+                ##
+            }
+            }

@@ -1,0 +1,16 @@
+
+        Constant $a = 10;
+        Function foo(Call(foo, [1,2,3])) {
+            Constant $b: String = "Story of Yanxi Place";
+            Let i = 0;
+            While (i < 5) {
+                a[i] = (b + 1) * $a;
+                Let u: String = i + 1;
+                If (a[u] == 10) {
+                    Return $b;
+                }
+                question = 30 + phut ;
+            }
+            Return $b + ": bon m chua xong that a ";
+        }
+        

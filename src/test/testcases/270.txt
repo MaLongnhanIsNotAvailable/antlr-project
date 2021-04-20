@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            For a Of { "string"
+        }{
+            a   =  5;
+        } 
+        }

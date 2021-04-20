@@ -1,0 +1,9 @@
+Function foo(a[5], b) {
+            While(If(a == b){a = 5;}){
+                a = b;
+                ##
+                #   Vi sao anh chan em the nay ??????
+                #
+                ##
+            }
+            }

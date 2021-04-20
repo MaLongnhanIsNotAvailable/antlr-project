@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            While(-10){
+                a = b;
+                Let question="Why?????";
+            }
+            }

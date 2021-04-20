@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            Let something = Call(foo, [{
+            name: 1,
+            a : 2
+        }]);
+        }

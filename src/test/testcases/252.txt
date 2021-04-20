@@ -1,0 +1,7 @@
+Function foo(a[5], b) {
+            If(a > b + 3 % 7)
+        {
+            Let a : String = "string", b = 3;  
+            a = b[5];
+        }
+        }

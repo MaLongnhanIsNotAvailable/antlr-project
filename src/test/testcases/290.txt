@@ -1,0 +1,3 @@
+Function foo(a[5], b) {
+            Let thatlangungoc = Call(foo, [Call(foooo, [1,2]), 4 / y]);
+            }

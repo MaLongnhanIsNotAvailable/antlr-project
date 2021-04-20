@@ -1,0 +1,12 @@
+Function foo(a[5], b) {
+            If(a + b < 7 && a+b)
+        {
+            a = 3;
+            b = 2;
+            Let sum : String = a + b;
+        }
+        Else
+        {
+            Return 0;
+        }
+        }

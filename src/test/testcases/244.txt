@@ -1,0 +1,3 @@
+Function foo(a[5], b) {
+            a[1,2] = aBC[1,2] + ab["name"]["a"];
+            }

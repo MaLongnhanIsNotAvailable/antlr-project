@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            For i In [[1,2],[1,2],3]{
+            a = 5;
+            Call(foo, [1,2,3]);
+        }
+        } 

@@ -1,0 +1,9 @@
+Function foo(a[5], b) {
+            If(True)
+        {
+            a = {
+                name: 123,
+                d: 2
+            };
+        }
+        }

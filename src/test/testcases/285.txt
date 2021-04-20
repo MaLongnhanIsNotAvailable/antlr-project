@@ -1,0 +1,6 @@
+Function foo(a[5], b) {
+            Let a = Call(foo, [{
+            name: "string",
+            a : 1
+        }, 4 / y]);
+        }

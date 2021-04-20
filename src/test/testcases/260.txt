@@ -1,0 +1,4 @@
+Function foo(a[5], b) {
+            If(a > 2)
+            Return nope;
+            }

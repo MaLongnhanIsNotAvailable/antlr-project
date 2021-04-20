@@ -1,0 +1,4 @@
+Function foo(a[5], b) {
+            Let chanthatsuay = "a";
+            Constant $alo = Call(foo, [[1,2,3],[1,2]]);
+            }

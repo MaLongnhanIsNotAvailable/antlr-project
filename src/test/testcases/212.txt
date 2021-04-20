@@ -1,0 +1,7 @@
+Function foo(a[5], b) {
+            Constant $a ={
+            name: 1,
+            b: 2,
+            c: "d"
+        };
+        }

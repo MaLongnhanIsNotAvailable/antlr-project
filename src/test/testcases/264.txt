@@ -1,0 +1,14 @@
+Function foo(a[5], b) {
+            For i In [{
+            name: "abc",
+            a : 123
+        },{
+            name: "abc",
+            a : 123
+        }]{
+            a = {
+            name: "abc",
+            a : 123
+        };
+        } 
+        }

@@ -1,0 +1,9 @@
+Let a = {
+            name: "a",
+            b: "c",
+            c: "d"
+        }, b : JSON = {
+            name: [[1,2],[2,3]],
+            b: True,
+            c: "d"
+        };

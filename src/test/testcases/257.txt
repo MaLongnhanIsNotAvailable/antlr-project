@@ -1,0 +1,16 @@
+Function foo(a[5], b) {
+            If(a == 30)
+        {
+            Return 3;   
+        }
+        Elif (a == 4)
+        {
+            Return 4;
+        }
+        Elif( a+b+c*d){
+            a = 5;
+        }
+        Else{
+            a = d;
+        }
+        }
